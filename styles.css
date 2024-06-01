@@ -1,0 +1,22 @@
+
+
+.btn-light{
+background-color: white;
+color: navy;
+}
+
+.navbar{
+border-bottom: 1px solid lightgray;
+}
+
+.header1{
+background-color: red;
+}
+
+.header2{
+background-color: blue;
+}
+
+.paragraph{
+background-color: green;
+}
